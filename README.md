@@ -8,7 +8,7 @@
 ![Marcelo GitHub stats](https://github-readme-stats.vercel.app/api?username=MarceloDevCruz&show_icons=true&theme=tokyonight)
 
 ### Sobre Min
-Olá, eu me chamo Marcelo Ferreira Cruz tenho 25 anos, e sou estudante do TADS Tecnologia em análise de desenvolvimento de sistemas, IFSP e como um estudante de TI, tenho o foco em conseguir resolver problemas e dar soluções, ao mesmo tempo, oferecer suporte para todos aqueles que precisam de minha ajuda. Desenvolvo aplicações Web, com tecnologias: html, css, javascript, react entre outras... e procuro oportunidades para me encaixar no mercado de trabalho.
+Olá, sou Marcelo Ferreira Cruz, um estudante de TI do Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (IFSP). eu tenho conhecimentos sobre tecnologias como Sass, ReactJs e NodeJs, e estou especializando no curso de Análise e Desenvolvimento de Sistemas. Além disso, tenho grande paixão por desenvolvimento de software, o que me motiva a se aprofundar cada vez mais em meus estudos. Eu pretende contribuir para o avanço da tecnologia, desenvolvendo soluções inovadoras que possam melhorar a vida das pessoas.
 
 ### Tecnologias Utilizadas
 <div style="display: inline_block" align="left" ><br>
