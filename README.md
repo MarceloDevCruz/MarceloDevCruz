@@ -24,6 +24,8 @@ Olá, sou Marcelo Ferreira Cruz, um estudante de TI do Instituto Federal de Educ
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" alt="sass" />
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled components" />
+  
 </div>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloDevCruz)
