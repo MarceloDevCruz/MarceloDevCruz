@@ -1,7 +1,6 @@
 ## Hello there 👋
 
 [![Portifolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio-marcelo-cruz.netlify.app/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marceloxris__/)
 [![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/marceloDEVcruz)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-ferreira-cruz/)
 
@@ -25,12 +24,20 @@ Olá, sou Marcelo Ferreira Cruz, um estudante de TI do Instituto Federal de Educ
   <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" alt="sass" />
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled components" />
+    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript" />
   
 </div>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloDevCruz)
 
 ### Projetos de destaque
-https://github.com/MarceloDevCruz/worksheets-react <br>
-https://github.com/MarceloDevCruz/instagram
+
+#### Unsplashgram
+https://github.com/MarceloDevCruz/instagram<br/>
+https://unsplashgram.netlify.app/login
+
+#### Pomodoro App
+https://github.com/MarceloDevCruz/pomodoro-app<br/>
+https://mfc-pomodoro.netlify.app/
+
 
