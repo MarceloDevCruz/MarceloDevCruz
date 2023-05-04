@@ -6,9 +6,6 @@
 
 ![Marcelo GitHub stats](https://github-readme-stats.vercel.app/api?username=MarceloDevCruz&show_icons=true&theme=tokyonight)
 
-### Sobre Min
-Olá, sou Marcelo Ferreira Cruz, um estudante de TI do Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (IFSP). eu tenho conhecimentos sobre tecnologias como Sass, ReactJs e NodeJs, e estou especializando no curso de Análise e Desenvolvimento de Sistemas. Além disso, tenho grande paixão por desenvolvimento de software, o que me motiva a se aprofundar cada vez mais em meus estudos.
-
 ### Tecnologias Utilizadas
 <div style="display: inline_block" align="left" ><br>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html"/>
@@ -32,12 +29,6 @@ Olá, sou Marcelo Ferreira Cruz, um estudante de TI do Instituto Federal de Educ
 </div>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloDevCruz)
-
-### Projetos de destaque
-
-#### Unsplashgram
-https://github.com/MarceloDevCruz/instagram<br/>
-https://unsplashgram.netlify.app/login
 
 #### Pomodoro App
 https://github.com/MarceloDevCruz/pomodoro-app<br/>
