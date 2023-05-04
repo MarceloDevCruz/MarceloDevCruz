@@ -30,8 +30,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloDevCruz)
 
-#### Pomodoro App
-https://github.com/MarceloDevCruz/pomodoro-app<br/>
-https://mfc-pomodoro.netlify.app/
-
 
