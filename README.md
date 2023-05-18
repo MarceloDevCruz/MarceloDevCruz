@@ -1,8 +1,5 @@
-## Hello there 👋
 
 [![Portifolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio-marcelo-cruz.netlify.app/)
-[![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/marceloDEVcruz)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-ferreira-cruz/)
 
 ![Marcelo GitHub stats](https://github-readme-stats.vercel.app/api?username=MarceloDevCruz&show_icons=true&theme=tokyonight)
 
@@ -29,5 +26,3 @@
 </div>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloDevCruz)
-
-
