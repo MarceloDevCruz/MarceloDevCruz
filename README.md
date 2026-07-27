@@ -1,4 +1,4 @@
-# 🌐 Marcelo Ferreira Cruz
+# Marcelo Ferreira Cruz
 **Desenvolvedor Ruby on Rails | Full Stack Developer**
 
 [![Portifolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio-marcelo-cruz.netlify.app/)
@@ -11,7 +11,7 @@
 
 ### 🚀 Sobre Mim
 
-Desenvolvedor Full Stack com **3 anos e meio de experiência** criando e evoluindo sistemas web.  
+Desenvolvedor Full Stack com 4 anos de experiência criando e evoluindo sistemas web.  
 Atuo principalmente com **Ruby on Rails** (backend) e **React.js / Next.js** (frontend), combinando manutenção de sistemas legados com a construção de novas soluções. Já trabalhei em projetos que evoluíram de monólitos para arquiteturas mais modernas, sempre buscando boas práticas de design, escalabilidade e performance.
 
 Experiência em:
@@ -55,36 +55,6 @@ Experiência em:
 </div>
 
 ---
-
-### 🧩 Stacks & Skills
-
-**Backend (Ruby on Rails & Node.js)**
-- Desenvolvimento de APIs e sistemas escaláveis
-- Criação de microsserviços e desacoplamento de monólitos
-- Processamento assíncrono (Sidekiq)
-- Testes automatizados (RSpec)
-- Hotfixes, análise de performance e monitoramento (New Relic, Rollbar)
-
-**Frontend**
-- Interfaces modernas em **React.js** e **Next.js** (com TypeScript)
-- Construção de componentes reutilizáveis e responsivos
-- Integração de APIs e chamadas HTTP eficientes
-
-**Infraestrutura & Cloud**
-- AWS (EC2, S3, SQS, Lambda)
-- Docker e containerização
-- Deploy em Vercel e Heroku
-- Bancos de dados: PostgreSQL, MySQL, MongoDB
-
-### 🎓 Cursos e Capacitações
-
-- **Claude Code – Meetup** (Maio 2026)  
-  Melhores práticas para uso de Claude Code (CLAUDE.MD, skills, agents, gestão de tokens).
-
-- **DevOps e CI/CD** (Set 2024 – Set 2024)  
-  Desenvolvimento da cultura DevOps e práticas de CI/CD.
-
-- **Santander Bootcamp Desenvolvimento Web** (Jun 2022 – Ago 2022)
 
 ### 📌 Links
 
